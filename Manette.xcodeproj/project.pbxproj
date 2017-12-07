@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		97578C5E8401A35B009EEF30 /* libPods-Manette.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F79F33A54C5C1D6EA25635DC /* libPods-Manette.a */; };
 		9A7215AB1FCABFCF006DFD49 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A7215AA1FCABFCF006DFD49 /* AppDelegate.m */; };
 		9A7215AE1FCABFCF006DFD49 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A7215AD1FCABFCF006DFD49 /* ViewController.m */; };
 		9A7215B11FCABFCF006DFD49 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A7215AF1FCABFCF006DFD49 /* Main.storyboard */; };
@@ -14,6 +15,20 @@
 		9A7215B61FCABFCF006DFD49 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A7215B51FCABFCF006DFD49 /* Assets.xcassets */; };
 		9A7215B91FCABFCF006DFD49 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A7215B71FCABFCF006DFD49 /* LaunchScreen.storyboard */; };
 		9A7215BC1FCABFCF006DFD49 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A7215BB1FCABFCF006DFD49 /* main.m */; };
+		9A7215C41FCAC048006DFD49 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A7215C31FCAC048006DFD49 /* DetailViewController.m */; };
+		9A7215C91FCAC1A8006DFD49 /* backButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7215C81FCAC1A8006DFD49 /* backButton@3x.png */; };
+		9A7215CC1FCB27C6006DFD49 /* GlobalPool.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A7215CB1FCB27C6006DFD49 /* GlobalPool.m */; };
+		9A7216491FCC1938006DFD49 /* FuturaLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A72163E1FCC1932006DFD49 /* FuturaLight.ttf */; };
+		9A72164A1FCC1938006DFD49 /* picto-reglages@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A72163F1FCC1933006DFD49 /* picto-reglages@2x.png */; };
+		9A72164B1FCC1938006DFD49 /* Symbole 13 – 1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7216401FCC1933006DFD49 /* Symbole 13 – 1@2x.png */; };
+		9A72164C1FCC1938006DFD49 /* FuturaStd-Heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9A7216411FCC1934006DFD49 /* FuturaStd-Heavy.otf */; };
+		9A72164D1FCC1938006DFD49 /* fond-photo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7216421FCC1934006DFD49 /* fond-photo@2x.png */; };
+		9A72164E1FCC1938006DFD49 /* Symbole 11 – 1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7216431FCC1936006DFD49 /* Symbole 11 – 1@2x.png */; };
+		9A72164F1FCC1938006DFD49 /* picto-tv@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7216441FCC1936006DFD49 /* picto-tv@2x.png */; };
+		9A7216501FCC1938006DFD49 /* ligne@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7216451FCC1937006DFD49 /* ligne@2x.png */; };
+		9A7216511FCC1938006DFD49 /* Symbole 12 – 1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7216461FCC1937006DFD49 /* Symbole 12 – 1@2x.png */; };
+		9A7216521FCC1938006DFD49 /* picto-fleche@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7216471FCC1937006DFD49 /* picto-fleche@2x.png */; };
+		9A7216531FCC1938006DFD49 /* logo-cbre@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A7216481FCC1938006DFD49 /* logo-cbre@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +43,25 @@
 		9A7215B81FCABFCF006DFD49 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9A7215BA1FCABFCF006DFD49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9A7215BB1FCABFCF006DFD49 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		9A7215C21FCAC048006DFD49 /* DetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		9A7215C31FCAC048006DFD49 /* DetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		9A7215C81FCAC1A8006DFD49 /* backButton@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "backButton@3x.png"; sourceTree = "<group>"; };
+		9A7215CA1FCB27C5006DFD49 /* GlobalPool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GlobalPool.h; sourceTree = "<group>"; };
+		9A7215CB1FCB27C6006DFD49 /* GlobalPool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GlobalPool.m; sourceTree = "<group>"; };
+		9A72163E1FCC1932006DFD49 /* FuturaLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FuturaLight.ttf; sourceTree = "<group>"; };
+		9A72163F1FCC1933006DFD49 /* picto-reglages@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picto-reglages@2x.png"; sourceTree = "<group>"; };
+		9A7216401FCC1933006DFD49 /* Symbole 13 – 1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Symbole 13 – 1@2x.png"; sourceTree = "<group>"; };
+		9A7216411FCC1934006DFD49 /* FuturaStd-Heavy.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FuturaStd-Heavy.otf"; sourceTree = "<group>"; };
+		9A7216421FCC1934006DFD49 /* fond-photo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fond-photo@2x.png"; sourceTree = "<group>"; };
+		9A7216431FCC1936006DFD49 /* Symbole 11 – 1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Symbole 11 – 1@2x.png"; sourceTree = "<group>"; };
+		9A7216441FCC1936006DFD49 /* picto-tv@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picto-tv@2x.png"; sourceTree = "<group>"; };
+		9A7216451FCC1937006DFD49 /* ligne@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ligne@2x.png"; sourceTree = "<group>"; };
+		9A7216461FCC1937006DFD49 /* Symbole 12 – 1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Symbole 12 – 1@2x.png"; sourceTree = "<group>"; };
+		9A7216471FCC1937006DFD49 /* picto-fleche@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "picto-fleche@2x.png"; sourceTree = "<group>"; };
+		9A7216481FCC1938006DFD49 /* logo-cbre@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logo-cbre@2x.png"; sourceTree = "<group>"; };
+		B51ACB28AA7D3506FB8BE86D /* Pods-Manette.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Manette.release.xcconfig"; path = "Pods/Target Support Files/Pods-Manette/Pods-Manette.release.xcconfig"; sourceTree = "<group>"; };
+		B6D083D0D2ECBE5B86B68E7E /* Pods-Manette.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Manette.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Manette/Pods-Manette.debug.xcconfig"; sourceTree = "<group>"; };
+		F79F33A54C5C1D6EA25635DC /* libPods-Manette.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Manette.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,17 +69,28 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				97578C5E8401A35B009EEF30 /* libPods-Manette.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		742034E6EE493A5021B063E1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F79F33A54C5C1D6EA25635DC /* libPods-Manette.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		9A72159D1FCABFCF006DFD49 = {
 			isa = PBXGroup;
 			children = (
 				9A7215A81FCABFCF006DFD49 /* Manette */,
 				9A7215A71FCABFCF006DFD49 /* Products */,
+				BED98A8FD7DA1112F716B544 /* Pods */,
+				742034E6EE493A5021B063E1 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -64,14 +109,47 @@
 				9A7215AA1FCABFCF006DFD49 /* AppDelegate.m */,
 				9A7215AC1FCABFCF006DFD49 /* ViewController.h */,
 				9A7215AD1FCABFCF006DFD49 /* ViewController.m */,
+				9A7215C21FCAC048006DFD49 /* DetailViewController.h */,
+				9A7215C31FCAC048006DFD49 /* DetailViewController.m */,
+				9A7215CA1FCB27C5006DFD49 /* GlobalPool.h */,
+				9A7215CB1FCB27C6006DFD49 /* GlobalPool.m */,
 				9A7215AF1FCABFCF006DFD49 /* Main.storyboard */,
 				9A7215B51FCABFCF006DFD49 /* Assets.xcassets */,
 				9A7215B71FCABFCF006DFD49 /* LaunchScreen.storyboard */,
 				9A7215BA1FCABFCF006DFD49 /* Info.plist */,
 				9A7215BB1FCABFCF006DFD49 /* main.m */,
 				9A7215B21FCABFCF006DFD49 /* Manette.xcdatamodeld */,
+				9A7215C71FCAC1A8006DFD49 /* Images */,
 			);
 			path = Manette;
+			sourceTree = "<group>";
+		};
+		9A7215C71FCAC1A8006DFD49 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				9A7215C81FCAC1A8006DFD49 /* backButton@3x.png */,
+				9A7216421FCC1934006DFD49 /* fond-photo@2x.png */,
+				9A72163E1FCC1932006DFD49 /* FuturaLight.ttf */,
+				9A7216411FCC1934006DFD49 /* FuturaStd-Heavy.otf */,
+				9A7216451FCC1937006DFD49 /* ligne@2x.png */,
+				9A7216481FCC1938006DFD49 /* logo-cbre@2x.png */,
+				9A7216471FCC1937006DFD49 /* picto-fleche@2x.png */,
+				9A72163F1FCC1933006DFD49 /* picto-reglages@2x.png */,
+				9A7216441FCC1936006DFD49 /* picto-tv@2x.png */,
+				9A7216431FCC1936006DFD49 /* Symbole 11 – 1@2x.png */,
+				9A7216461FCC1937006DFD49 /* Symbole 12 – 1@2x.png */,
+				9A7216401FCC1933006DFD49 /* Symbole 13 – 1@2x.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		BED98A8FD7DA1112F716B544 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B6D083D0D2ECBE5B86B68E7E /* Pods-Manette.debug.xcconfig */,
+				B51ACB28AA7D3506FB8BE86D /* Pods-Manette.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -81,9 +159,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9A7215BF1FCABFCF006DFD49 /* Build configuration list for PBXNativeTarget "Manette" */;
 			buildPhases = (
+				CCFE4024EB9CD4069B07CCF5 /* [CP] Check Pods Manifest.lock */,
 				9A7215A21FCABFCF006DFD49 /* Sources */,
 				9A7215A31FCABFCF006DFD49 /* Frameworks */,
 				9A7215A41FCABFCF006DFD49 /* Resources */,
+				8379AD7BBE5BF671CFF02B61 /* [CP] Embed Pods Frameworks */,
+				DC26FC24AAB55F0EBB032B16 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -132,20 +213,88 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9A7216501FCC1938006DFD49 /* ligne@2x.png in Resources */,
+				9A7215C91FCAC1A8006DFD49 /* backButton@3x.png in Resources */,
+				9A7216491FCC1938006DFD49 /* FuturaLight.ttf in Resources */,
+				9A7216531FCC1938006DFD49 /* logo-cbre@2x.png in Resources */,
 				9A7215B91FCABFCF006DFD49 /* LaunchScreen.storyboard in Resources */,
+				9A72164D1FCC1938006DFD49 /* fond-photo@2x.png in Resources */,
+				9A72164B1FCC1938006DFD49 /* Symbole 13 – 1@2x.png in Resources */,
 				9A7215B61FCABFCF006DFD49 /* Assets.xcassets in Resources */,
+				9A72164A1FCC1938006DFD49 /* picto-reglages@2x.png in Resources */,
+				9A7216511FCC1938006DFD49 /* Symbole 12 – 1@2x.png in Resources */,
+				9A7216521FCC1938006DFD49 /* picto-fleche@2x.png in Resources */,
+				9A72164C1FCC1938006DFD49 /* FuturaStd-Heavy.otf in Resources */,
+				9A72164F1FCC1938006DFD49 /* picto-tv@2x.png in Resources */,
 				9A7215B11FCABFCF006DFD49 /* Main.storyboard in Resources */,
+				9A72164E1FCC1938006DFD49 /* Symbole 11 – 1@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		8379AD7BBE5BF671CFF02B61 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Manette/Pods-Manette-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CCFE4024EB9CD4069B07CCF5 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Manette-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DC26FC24AAB55F0EBB032B16 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Manette/Pods-Manette-resources.sh",
+				"${PODS_ROOT}/SVProgressHUD/SVProgressHUD/SVProgressHUD.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Manette/Pods-Manette-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		9A7215A21FCABFCF006DFD49 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9A7215C41FCAC048006DFD49 /* DetailViewController.m in Sources */,
 				9A7215B41FCABFCF006DFD49 /* Manette.xcdatamodeld in Sources */,
+				9A7215CC1FCB27C6006DFD49 /* GlobalPool.m in Sources */,
 				9A7215AE1FCABFCF006DFD49 /* ViewController.m in Sources */,
 				9A7215BC1FCABFCF006DFD49 /* main.m in Sources */,
 				9A7215AB1FCABFCF006DFD49 /* AppDelegate.m in Sources */,
@@ -280,6 +429,7 @@
 		};
 		9A7215C01FCABFCF006DFD49 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B6D083D0D2ECBE5B86B68E7E /* Pods-Manette.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -287,12 +437,13 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Brandon.Manette;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
 		9A7215C11FCABFCF006DFD49 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B51ACB28AA7D3506FB8BE86D /* Pods-Manette.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -300,7 +451,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Brandon.Manette;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
